@@ -13,7 +13,8 @@
 * **مخاطر السلامة:التعامل الفوري مع الحالات الطارئة لحماية الحضور.
 
 ## 3. فريق إلإداره
-<img src="https://i.ibb.co/3mN9K3sW/watermarked-img-10178518976247377791.jpg" alt="فريق إدارة الأزمات" width="100%">
+<img width="1152" height="868" alt="image" src="https://github.com/user-attachments/assets/2ca55b8d-7795-464a-9d5f-08bb6385cd4b" />
+
 
 
 * **متحدث رسمي: لتوحيد الرسائل الإعلامية ومنع تضارب المعلومات.
